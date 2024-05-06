@@ -1,0 +1,102 @@
+﻿body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #FFFFFF;
+    color: #696969;
+    margin: 25px;
+}
+
+h1 {
+    font: Georgia, serif;
+    border-bottom: 3px solid #039;
+    color: #039;
+}
+
+p {
+    font-size: 20px;
+}
+
+.emphsis {
+    font-weight: 500;
+    font-style: italic;
+    color: red;
+}
+
+.error {
+    font-size: 22px;
+    color: red;
+}
+
+.distinct {
+    color: blue;
+    font: bold;
+}
+
+.button {
+    border: 1px solid #039;
+    border-style: ridge;
+    color: #ffffe0;
+    width: 7em;
+    height: 3em;
+    background-color: #039;
+    cursor: pointer;
+}
+    .button:hover {
+        background-color: #ab7407;
+    }
+
+.input {
+    margin-left: 1rem;
+    border: 2px solid #039;
+    border-style: groove;
+    background: #b9c9e9;
+    width: 15em;
+    height: 2em;
+}
+
+    .input:hover {
+        border: 2px solid #f00;
+        background: #ff6;
+    }
+
+.table {
+    font-size: 12px;
+    width: 480px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+    .table th {
+        font-size: 13px;
+        font-weight: normal;
+        padding: 8px;
+        background: #b9c9fe;
+        border-top: 4px solid #aabcfe;
+        border-bottom: 1px solid #fff;
+        color: #039;
+    }
+
+    .table td {
+        padding: 8px;
+        background: #e8edff;
+        border-bottom: 1px solid #fff;
+        color: #669;
+        border-top: 1px solid transparent;
+    }
+
+    .table tr:hover td {
+        background: #d0dafd;
+        color: #339;
+    }
+
+    .label {
+        font-size:22px;
+    }
+    
+#infoSection div, #studentTable, #selectedCoursesSection, #availableCourses {
+    margin-bottom: 20px;
+}
+
+.valid {
+    font-size: 24px;
+    color: blue;
+}
