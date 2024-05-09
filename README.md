@@ -53,3 +53,10 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Contact
 
 - **Arthur Duarte** - [arthurleiteduarte@outlook.com](arthurleiteduarte@outlook.com)
+
+## Images
+![image](https://github.com/o2thur/StudentEnrollmentSystem/assets/77739399/17baa34e-712a-46db-8602-ba9619e8cf20)
+
+![image](https://github.com/o2thur/StudentEnrollmentSystem/assets/77739399/0e8e6024-fc21-44a4-8629-b5f3297c83e9)
+
+![image](https://github.com/o2thur/StudentEnrollmentSystem/assets/77739399/d4e10c7a-97a0-4df8-a0f2-f8e2d12f0347)
